@@ -26,6 +26,18 @@ header {
     background-size: cover;
 }
 
+/* profile */
+.profile {
+    position: center;
+    padding: 10 20;
+    
+}
+
+h1 {
+    position: center;
+}
+
+
 /* gallery */
 title .h2 {
     position: center;
@@ -83,7 +95,7 @@ title .h2 {
 }
 
 .images-port:hover .hover-photo {
-    transform: scale(1);
+    transform: scale(1.1);
 }
 
 /* cards */
